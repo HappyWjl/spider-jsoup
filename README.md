@@ -41,7 +41,7 @@ Lombok | 简化对象封装工具 | [https://github.com/rzwitserloot/lombok](htt
 
 ### 开发工具
 
-工具 | 说明 | 官网
+工具 | 说明 | 下载
 ----|----|----
 IDEA | 开发IDE | http://www.ilearn1234.com/#/tool?id=1&type=tool
 
